@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucidTortoise
 - 👀 I’m interested in alternative forms of computing
 - 🌱 I’m currently learning web development from The Odin Project
-- 💞️ I’m looking to collaborate on a webstite, eventually
+- 💞️ I’m looking to collaborate on an artistic hyperlinked game website about a benevolent tortoise
 - 📫 How to reach me Discord: LudicTortoise
 
 <!---
